@@ -1,2 +1,2 @@
 # Python
-SQL, GUI, Command-Line 
+GUI, Command-Line 
